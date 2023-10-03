@@ -1,1 +1,13 @@
-{ "response": [ { "datetime": 1696299579, "filename": "RR-Rev-Q-AUG23-20231003-RMX1851.zip", "id": "2aa37fb106d567716d9c9564b00a41aa09d702913af307fd3e53db5b31a22a50", "romtype": "", "size": 1421908918, "url": "http://94.130.205.48/RMX1851/RR-Rev-Q-AUG23-20231003-RMX1851.zip", "version": "AUG23"  }]}
+{
+	"response": [ 
+	{
+		"datetime": 1696299579, 
+		"filename": "RR-Rev-Q-AUG23-20231003-RMX1851.zip", 
+		"id": "d6fc19998e0fcc1cd0bb09df77b381d5a54e8f3d88404c291cf72754ede98137", 
+		"romtype": "final", 
+		"size": 1421892785, 
+		"url": "http://94.130.205.48/RMX1851/RR-Rev-Q-AUG23-20231003-RMX1851.zip", 
+		"version": "AUG23"  
+		  }
+		 ]
+		}
