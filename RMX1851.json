@@ -1,13 +1,1 @@
-{
-	"response": [ 
-	{
-		"datetime": 1696333344, 
-		"filename": "RR-Rev-Q-SEP23-20231003-RMX1851.zip", 
-		"id": "6d2358114cf11b509b3a6382681a9b8e3b7dd3b3d7fa653429c4f8b972303030", 
-		"romtype": "final", 
-		"size": 1414357851, 
-		"url": "https://github.com/R15Hi/RR_ota/releases/download/V1/RR-Rev-Q-SEP23-20231003-RMX1851.zip", 
-		"version": "SEP23"  
-		}
-		]
-		}
+{ "response": [ { "datetime": 1696333344, "filename": "RR-Rev-Q-SEP23-20231003-RMX1851.zip", "id": "27493eff5393f9807e3ff5cbb6a5aef397dcd70e684079579320f71578def272", "romtype": "", "size": 1414339322, "url": "https://sourceforge.net/projects/sirrgb-roms/files/RMX1851/RR-Rev-Q-SEP23-20231003-RMX1851.zip", "version": "SEP23"  }]}
