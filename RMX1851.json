@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1696493712",
-      "filename": "RR-Rev-Q-AUG23-GAPPS-20231005-RMX1851.zip",
-      "id": "4c35dc93167c7fc8ef362a7491bb7a9b5cf2bf71e4375e49e33628ea9a531db5",
+      "datetime": "1696495592",
+      "filename": "RR-Rev-Q-AUG23v1-GAPPS-20231005-RMX1851.zip",
+      "id": "cfaff41ea720a8de20f98229310975d78a9fd4217f4ad2b64838ac3218392258",
       "romtype": "",
-      "size": 1538501952,
-      "url": "https://github.com/R15Hi/RR_ota/releases/download/RR-Rev-Q-AUG23-GAPPS-20231005-RMX1851/RR-Rev-Q-AUG23-GAPPS-20231005-RMX1851.zip",
-      "version": "AUG23"
+      "size": 1538487337,
+      "url": "https://github.com/R15Hi/RR_ota/releases/download/RR-Rev-Q-AUG23v1-GAPPS-20231005-RMX1851/RR-Rev-Q-AUG23v1-GAPPS-20231005-RMX1851.zip",
+      "version": "AUG23v1"
     }
   ]
 }
